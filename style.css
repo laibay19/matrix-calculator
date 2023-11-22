@@ -1,0 +1,39 @@
+input{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    /* background-image:url("back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; */
+}
+
+.container{
+    padding: 10px;
+    
+}
+
+.container2{
+    display: flex;
+    gap: 20px;
+}
+.hedstylling{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.button{
+    height: 35px;
+    width:90px;
+    font-size: 17px;
+
+}
